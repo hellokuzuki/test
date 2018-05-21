@@ -1,2 +1,3 @@
 add something
 dev branch started
+add string after feature1 on master branch
