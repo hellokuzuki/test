@@ -1,2 +1,3 @@
 add something
 dev branch started
+2nd commit to master
