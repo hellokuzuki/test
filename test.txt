@@ -2,3 +2,6 @@ add something
 dev branch started
 add string after feature1 on master branch
 add new for branch feature1
+2nd commit to master
+2nd dev commit
+3rd commit to dev
