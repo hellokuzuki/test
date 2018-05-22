@@ -5,3 +5,5 @@ add new for branch feature1
 2nd commit to master
 2nd dev commit
 3rd commit to dev
+6th commit to master
+
